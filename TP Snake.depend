@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1547799630 source:c:\users\owner\documents\life\ece\informatique\info tp\tp snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1547799630 source:c:\users\owner\documents\life\ece\~ing 1\informatique\info tp\tp snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
